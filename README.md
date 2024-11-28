@@ -7,15 +7,16 @@ Acesse o site clicando no link abaixo:
 https://arquitetua-pagina.netlify.app/
 
 📂 Estrutura do Projeto
-HTML (index.html):
+
+- HTML (index.html):
 
 Estrutura principal da página, contendo seções como o menu superior, menu informacional, histórico da empresa e formulário de contato.
 
-CSS (style.css):
+- CSS (style.css):
 
 Estilização da página, com definições de layout, cores e fontes.
 
-JavaScript (index.js):
+- JavaScript (index.js):
 
 Arquivo reservado para funcionalidades interativas (atualmente vazio, mas preparado para futuras implementações).
 
@@ -37,9 +38,5 @@ Os dados enviados pelo formulário são armazenados na planilha do Google Sheets
 https://docs.google.com/spreadsheets/d/13M43vi78i5JVvbI9n-vlUiU6sDOkfrgyoUMsNZr5yiQ/edit?gid=0#gid=0
 
 🛠️ Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
-Google Fonts (Inter, Raleway)
-Netlify (Hospedagem)
-Sheetmonkey (Integração do formulário com Google Sheets)
+
+HTML5, CSS3, JavaScript, Google Fonts (Inter, Raleway), Netlify (Hospedagem) e Sheetmonkey (Integração do formulário com Google Sheets)
