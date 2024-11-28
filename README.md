@@ -8,12 +8,15 @@ https://arquitetua-pagina.netlify.app/
 
 📂 Estrutura do Projeto
 HTML (index.html):
+
 Estrutura principal da página, contendo seções como o menu superior, menu informacional, histórico da empresa e formulário de contato.
 
 CSS (style.css):
+
 Estilização da página, com definições de layout, cores e fontes.
 
 JavaScript (index.js):
+
 Arquivo reservado para funcionalidades interativas (atualmente vazio, mas preparado para futuras implementações).
 
 🖋️ Funcionalidades
