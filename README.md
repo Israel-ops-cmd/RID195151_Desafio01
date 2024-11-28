@@ -6,7 +6,7 @@ Este projeto é uma página web desenvolvida para apresentar informações sobre
 🚀 Demonstração
 Acesse o site clicando no link abaixo:
 
-🔗 Página de Arquitetura
+https://arquitetua-pagina.netlify.app/
 
 📂 Estrutura do Projeto
 HTML (index.html)
@@ -33,8 +33,7 @@ Permite que os visitantes enviem seu nome e e-mail diretamente para um banco de 
 A integração é feita usando o Sheetmonkey.
 📊 Planilha para Visualização dos Dados
 Os dados enviados pelo formulário são armazenados na planilha do Google Sheets no link abaixo:
-
-🔗 Planilha de Contatos
+https://docs.google.com/spreadsheets/d/13M43vi78i5JVvbI9n-vlUiU6sDOkfrgyoUMsNZr5yiQ/edit?gid=0#gid=0
 
 🛠️ Tecnologias Utilizadas
 HTML5
