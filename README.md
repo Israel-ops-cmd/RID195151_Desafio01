@@ -1,21 +1,19 @@
 # README - Página de Arquitetura
 
-README - Página de Arquitetura
 Este projeto é uma página web desenvolvida para apresentar informações sobre uma empresa de arquitetura especializada em projetos residenciais e comerciais. A página possui um layout limpo e moderno, com menus informativos, histórico da empresa e um formulário para contato.
 
-🚀 Demonstração
 Acesse o site clicando no link abaixo:
 
 https://arquitetua-pagina.netlify.app/
 
 📂 Estrutura do Projeto
-HTML (index.html)
+HTML (index.html):
 Estrutura principal da página, contendo seções como o menu superior, menu informacional, histórico da empresa e formulário de contato.
 
-CSS (style.css)
+CSS (style.css):
 Estilização da página, com definições de layout, cores e fontes.
 
-JavaScript (index.js)
+JavaScript (index.js):
 Arquivo reservado para funcionalidades interativas (atualmente vazio, mas preparado para futuras implementações).
 
 🖋️ Funcionalidades
